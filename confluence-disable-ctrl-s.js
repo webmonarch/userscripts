@@ -4,7 +4,8 @@
 // @version      0.1
 // @description  Disable CTRL-S on Confluence so I don't spam everyone
 // @author       webmonarch
-// @match        https://wiki.corp.adobe.com/pages/createpage.action?*
+// @match        https://wiki.corp.adobe.com/pages/createpage.action*
+// @match        https://wiki.corp.adobe.com/pages/editpage.action*
 // @grant        none
 // ==/UserScript==
 
